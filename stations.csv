@@ -1,0 +1,319 @@
+﻿station_id,station_id_3digit,guide_number,name_zh-hant,name_zh-hans,name_en,name_ko,name_ko_pinyin,name_ja,note_zh-hant,note_zh-hans,note_en,type,system,ipt_data_code
+1,001,"1 01,GF 18",西塱,西塱,Xilang,서랑,시랑,西ロウ,,,,metro_station,gzmtr,3325256Q34WX
+3,003,1 02,坑口,坑口,Kengkou,갱구,컹커우,坑口,,,,metro_station,gzmtr,75360150GMQ4
+4,004,1 03,花地灣,花地湾,Huadiwan,화지만,화디완,花地湾,,,,metro_station,gzmtr,8937411LWG2N
+5,005,1 04,芳村,芳村,Fangcun,방촌,팡춘,芳村,,,,metro_station,gzmtr,0623921AWUYW
+6,006,"1 05,6 07",黃沙,黄沙,Huangsha,황사,황사,黄沙,,,,metro_station,gzmtr,96739074SUWM
+7,007,1 06,長壽路,长寿路,Changshou Lu,장수로,창서우루,長寿路,,,,metro_station,gzmtr,7798602XJA1S
+8,008,"1 07,8 12",陳家祠,陈家祠,Chen Clan Academy,진가사,천자츠,陳家祠,,,,metro_station,gzmtr,0254261MSLLI
+9,009,1 08,西門口,西门口,Ximenkou,서문구,시먼커우,西門口,,,,metro_station,gzmtr,90067648433J
+10,010,"1 09,2 13",公園前,公园前,Gongyuanqian,공원앞,궁위안쳰,公園前,,,,metro_station,gzmtr,00275569MR2U
+11,011,1 10,農講所,农讲所,Peasant Movement Institute,농강서,눙장쒀,農講所,,,,metro_station,gzmtr,8243329USRC6
+12,012,1 11,烈士陵園,烈士陵园,Martyrs’ Park,열사릉원,례스링위안,烈士陵園,,,,metro_station,gzmtr,1734752XU84L
+13,013,"1 12,6 14",東山口,东山口,Dongshankou,동산구,둥산커우,東山口,,,,metro_station,gzmtr,09461444XCJA
+14,014,"1 13,5 11",楊箕,杨箕,Yangji,양기,양지,楊箕,,,,metro_station,gzmtr,2588957JD2HQ
+15,015,"1 14,3 11",體育西路,体育西路,Tiyu Xilu,체육서로,티위시루,体育西路,,,,metro_station,gzmtr,64128045G3EU
+16,016,1 15,體育中心,体育中心,Tianhe Sports Center,체욕중심,티위중신,体育中心,,,,metro_station,gzmtr,78357735JQS9
+19,019,2 23,黃邊,黄边,Huangbian,황변,황볜,黄辺,,,,metro_station,gzmtr,14959663SO0X
+20,020,2 22,江夏,江夏,Jiangxia,강하,장샤,江夏,,,,metro_station,gzmtr,5689929MXHSW
+22,022,2 21,蕭崗,萧岗,Xiao-gang,소강,샤오강,蕭崗,,,,metro_station,gzmtr,2778658KFDWR
+23,023,2 20,白雲文化廣場,白云文化广场,Baiyun Culture Square,바이윈문화광장,바이윈원화광창,白雲文化広場,,,,metro_station,gzmtr,45131118UJ89
+24,024,2 19,白雲公園,白云公园,Baiyun Park,바이윈공원,바이윈궁위안,白雲公園,,,,metro_station,gzmtr,5739182YX0P7
+25,025,2 18,飛翔公園,飞翔公园,Feixiang Park,비상공원,페이샹궁위안,飛翔公園,,,,metro_station,gzmtr,9878060LFBQA
+26,026,2 17,三元里,三元里,Sanyuanli,삼원리,싼위안리,三元里,,,,metro_station,gzmtr,1761613IGRT0
+27,027,"2 16,5 06",廣州火車站,广州火车站,Guangzhou Railway Station,광저우역,광저우훠처잔,広州駅,,,,metro_station,gzmtr,5979845M135F
+28,028,2 15,越秀公園,越秀公园,Yuexiu Park,웨슈공원,웨슈궁위안,越秀公園,,,,metro_station,gzmtr,07886343PKZM
+29,029,2 14,紀念堂,纪念堂,Sun Yat-sen Memorial Hall,기념당,지녠탕,紀念堂,,,,metro_station,gzmtr,5254261CI0GJ
+31,031,"2 12,6 10",海珠廣場,海珠广场,Haizhu Square,하이주광장,하이주광창,海珠広場,,,,metro_station,gzmtr,9554528RT2FD
+32,032,2 11,市二宮,市二宫,The 2nd Workers’ Cultural Palace,시제2노동자문화궁,스얼궁,市二宮,,,,metro_station,gzmtr,29356768A3C7
+33,033,2 10,江南西,江南西,Jiangnanxi,강남서,장난시,江南西,,,,metro_station,gzmtr,94042593ODC4
+34,034,"2 09,8 19",昌崗,昌岗,Changgang,창강,창강,昌崗,,,,metro_station,gzmtr,6061979E61IG
+35,035,2 08,江泰路,江泰路,Jiangtai Lu,강태로,장타이루,江泰路,,,,metro_station,gzmtr,6037812JGE6G
+36,036,2 07,東曉南,东晓南,Dongxiaonan,동효남,둥샤오난,東暁南,,,,metro_station,gzmtr,6545893K4YC2
+37,037,"2 06,GF 24",南洲,南洲,Nanzhou,남주,난저우,南洲,,,,metro_station,gzmtr,0979292OWPG1
+38,038,2 05,洛溪,洛溪,Luoxi,낙계,뤄시,洛渓,,,,metro_station,gzmtr,3151566YK9UP
+39,039,2 04,南浦,南浦,Nanpu,남포,난푸,南浦,,,,metro_station,gzmtr,18711917KFA7
+40,040,2 03,會江,会江,Huijiang,회강,후이장,会江,,,,metro_station,gzmtr,7399294VSMG0
+41,041,"2 02,7 02",石壁,石壁,Shibi,석벽,스비,石壁,,,,metro_station,gzmtr,8067208NO4TU
+42,042,"2 01,7 01,F2 27",廣州南站,广州南站,Guangzhou South Railway Station,광저우남역,광저우난잔,広州南駅,,,,metro_station,gzmtr,2932773NAB9G
+44,044,"3 01,18 03",番禺廣場,番禺广场,Panyu Square,판위광장,판위광창,番禺広場,,,,metro_station,gzmtr,2980265OOPGA
+45,045,3 02,市橋,市桥,Shiqiao,시교,스차오,市橋,,,,metro_station,gzmtr,0020807FADAD
+46,046,"3 03,7 05",漢溪長隆,汉溪长隆,Hanxi Changlong,한계장륭,한시창룽,漢渓長隆,,,,metro_station,gzmtr,0880100M3MLB
+47,047,3 04,大石,大石,Dashi,대석,다스,大石,,,,metro_station,gzmtr,7554748L10XH
+48,048,3 05,廈滘,厦滘,Xiajiao,하교,샤자어,廈キョウ,,,,metro_station,gzmtr,435699580TOR
+49,049,"3 06,GF 25",瀝滘,沥滘,Lijiao,역교,리자어,瀝キョウ,,,,metro_station,gzmtr,9976397S27YW
+50,050,3 07,大塘,大塘,Datang,대당,다탕,大塘,,,,metro_station,gzmtr,6328149CHM51
+51,051,"3 08,8 23",客村,客村,Kecun,객촌,커춘,客村,,,,metro_station,gzmtr,8271257XUGMT
+52,052,"3 09,APM 01,THZ1 01",廣州塔,广州塔,Canton Tower,캔턴타워,광저우타,広州塔,,,,metro_station,gzmtr,4959877RE59L
+53,053,"3 10,5 13",珠江新城,珠江新城,Zhujiang New Town,주강신성,주장신청,珠江新城,,,,metro_station,gzmtr,8811360M0ONB
+55,055,3 12,石牌橋,石牌桥,Shipaiqiao,석패교,스파이차오,石牌橋,,,,metro_station,gzmtr,759424276T0H
+56,056,3 13,崗頂,岗顶,Gangding,강정,강딩,崗頂,,,,metro_station,gzmtr,755071001AFY
+57,057,3 14,華師,华师,South China Normal University,화사,화스,華師,,,,metro_station,gzmtr,6294248NDJ14
+58,058,3 15,五山,五山,Wushan,오산,우산,五山,,,,metro_station,gzmtr,73789721UC2B
+59,059,"3 16,6 21",天河客運站,天河客运站,Tianhe Coach Terminal,톈허고숙버스터미널,톈허커윈잔,天河高速バスターミナル,,,,metro_station,gzmtr,7535961VVYU3
+61,061,"3 17,APM 09",林和西,林和西,Linhexi,임화서,린허시,林和西,,,,metro_station,gzmtr,7693214PMPKO
+62,062,"1 16,3 18",廣州東站,广州东站,Guangzhou East Railway Station,광저우동역,광저우둥잔,広州東駅,,,,metro_station,gzmtr,5692839FNC0R
+63,063,"3 19,6 20",燕塘,燕塘,Yantang,연당,옌탕,燕塘,,,,metro_station,gzmtr,77138758QF84
+64,064,3 20,梅花園,梅花园,Meihuayuan,매화원,메이화위안,梅花園,,,,metro_station,gzmtr,8392887KPZYH
+65,065,3 21,京溪南方醫院,京溪南方医院,Jingxi Nanfang Hospital,경계남방병원,징시난팡이위안,京渓南方病院,,,,metro_station,gzmtr,0332124S4396
+66,066,3 22,同和,同和,Tonghe,동화,퉁허,同和,,,,metro_station,gzmtr,3054292OB63U
+67,067,3 23,永泰,永泰,Yongtai,영태,융타이,永泰,,,,metro_station,gzmtr,89779981V76V
+68,068,3 24,白雲大道北,白云大道北,Baiyun Dadao Bei,바이윈대도북,바이윈다다오베이,白雲大道北,,,,metro_station,gzmtr,0966956FJJRK
+69,069,"2 24,3 25,14 01",嘉禾望崗,嘉禾望岗,Jiahe Wanggang,가화망강,자허왕강,嘉禾望崗,,,,metro_station,gzmtr,5216905NA6DI
+70,070,3 26,龍歸,龙归,Longgui,용귀,룽구이,竜帰,,,,metro_station,gzmtr,417070123E6O
+71,071,3 27,人和,人和,Renhe,인화,런허,人和,,,,metro_station,gzmtr,1310635LFQ2T
+72,072,3 29,機場南,机场南,Airport South,공항남,지창난,空港南,1號航站樓,1号航站楼,Terminal 1,metro_station,gzmtr,2760988659LN
+73,073,"4 24,21 04",黃村,黄村,Huangcun,황촌,황춘,黄村,,,,metro_station,gzmtr,17480038FCTC
+74,074,4 23,車陂,车陂,Chebei,차피,처베이,車陂,,,,metro_station,gzmtr,6743545SA8MK
+75,075,"4 22,5 18",車陂南,车陂南,Chebeinan,차피남,처베이난,車陂南,,,,metro_station,gzmtr,1768412H6P15
+76,076,"4 21,8 28,THZ1 11",萬勝圍,万胜围,Wanshengwei,만성위,완성웨이,万勝囲,,,,metro_station,gzmtr,6462746W7LBY
+77,077,4 20,官洲,官洲,Guanzhou,관주,관저우,官洲,,,,metro_station,gzmtr,9041510TEWFP
+78,078,4 19,大學城北,大学城北,Higher Education Mega Center North,대학성북,다쉐청베이,大学城北,,,,metro_station,gzmtr,15799530PNV5
+79,079,"4 18,7 09",大學城南,大学城南,Higher Education Mega Center South,대학성남,다쉐청난,大学城南,,,,metro_station,gzmtr,5466742X0KUL
+80,080,4 17,新造,新造,Xinzao,신조,신짜오,新造,,,,metro_station,gzmtr,85919395P1FN
+81,081,4 16,官橋,官桥,Guanqiao,관교,관차오,官橋,未開通,未开通,Under construction,metro_station,gzmtr,
+82,082,4 15,石碁,石碁,Shiqi,석기,스치,石碁,,,,metro_station,gzmtr,71058459T3UU
+83,083,4 14,海傍,海傍,Haibang,해방,하이방,海傍,,,,metro_station,gzmtr,6796009A9J7I
+84,084,4 13,低涌,低涌,Dichong,저용,디충,低涌,,,,metro_station,gzmtr,34814830ZJJI
+85,085,4 12,東涌,东涌,Dongchong,동용,둥충,東涌,,,,metro_station,gzmtr,6920898C4I8T
+86,086,4 11,慶盛,庆盛,Qingsheng,경성,칭성,慶盛,,,,metro_station,gzmtr,9164236QJDD2
+87,087,4 10,黃閣汽車城,黄阁汽车城,Huangge Auto Center,황각자동차센터,황거치처청,黄閣汽車城,,,,metro_station,gzmtr,41484441XF07
+88,088,4 09,黃閣,黄阁,Huangge,황각,황거,黄閣,,,,metro_station,gzmtr,10917667E3KJ
+89,089,4 08,蕉門,蕉门,Jiaomen,초문,자어먼,蕉門,,,,metro_station,gzmtr,83013874U0IT
+90,090,4 07,金洲,金洲,Jinzhou,금주,진저우,金洲,,,,metro_station,gzmtr,9574264W3ZEA
+91,091,"3 28,9 11",高增,高增,Gaozeng,고증,가오쩡,高増,,,,metro_station,gzmtr,0669037U6EOL
+92,092,5 24,文沖,文冲,Wenchong,문충,원충,文沖,,,,metro_station,gzmtr,533628854YTC
+93,093,5 23,大沙東,大沙东,Dashadong,대사동,다사둥,大沙東,,,,metro_station,gzmtr,3320166QB1KT
+94,094,5 22,大沙地,大沙地,Dashadi,대사지,다사디,大沙地,,,,metro_station,gzmtr,5690345D4X5I
+95,095,"5 21,13 01",魚珠,鱼珠,Yuzhu,어주,위주,魚珠,,,,metro_station,gzmtr,93219337B8E8
+96,096,5 20,三溪,三溪,Sanxi,삼계,싼시,三渓,,,,metro_station,gzmtr,6407879ALCHH
+97,097,5 19,東圃,东圃,Dongpu,동포,둥푸,東圃,,,,metro_station,gzmtr,2984566LQB8F
+98,098,5 17,科韻路,科韵路,Keyun Lu,과운로,커윈루,科韻路,,,,metro_station,gzmtr,4968172JSXY4
+99,099,"5 16,21 01",員村,员村,Yuancun,원촌,위안춘,員村,,,,metro_station,gzmtr,8835261I0YWN
+100,100,5 15,潭村,潭村,Tancun,담촌,탄춘,潭村,,,,metro_station,gzmtr,5337181NR9RC
+101,101,5 14,獵德,猎德,Liede,엽덕,례더,猟徳,,,,metro_station,gzmtr,6487998W33OT
+102,102,5 12,五羊邨,五羊邨,Wuyangcun,오양촌,우양춘,五羊邨,,,,metro_station,gzmtr,1997018I09FP
+103,103,5 10,動物園,动物园,Zoo,동물원,둥우위안,動物園,,,,metro_station,gzmtr,39637488TOF3
+104,104,"5 09,6 15",區莊,区庄,Ouzhuang,구장,어우좡,区荘,,,,metro_station,gzmtr,3452291W3G74
+105,105,5 08,淘金,淘金,Taojin,도금,타오진,淘金,,,,metro_station,gzmtr,5886975X857M
+106,106,5 07,小北,小北,Xiaobei,소북,샤오베이,小北,,,,metro_station,gzmtr,0639187CQ3FO
+107,107,5 05,西村,西村,Xicun,서촌,시춘,西村,,,,metro_station,gzmtr,4168462HNG1F
+108,108,5 04,西场,西场,Xichang,서장,시창,西場,,,,metro_station,gzmtr,6684545SUN3U
+109,109,5 03,中山八,中山八,Zhongshanba,중산8,중산바,中山八,,,,metro_station,gzmtr,0622905MX0FM
+110,110,"5 02,6 05",坦尾,坦尾,Tanwei,탄미,탄웨이,坦尾,,,,metro_station,gzmtr,0911489C7FEY
+111,111,5 01,滘口,滘口,Jiaokou,교구,자어커우,キョウ口,,,,metro_station,gzmtr,8304723X2O8R
+112,112,8 16,鳳凰新村,凤凰新村,Fenghuang Xincun,봉황신촌,펑황신춘,鳳凰新村,,,,metro_station,gzmtr,52160830XQJL
+113,113,"8 17,GF 21",沙園,沙园,Shayuan,사원,사위안,沙園,,,,metro_station,gzmtr,44124225R35K
+114,114,8 18,寶崗大道,宝岗大道,Baogang Dadao,보강대도,바오강다다오,宝崗大道,,,,metro_station,gzmtr,1285607AV87Y
+115,115,8 20,曉港,晓港,Xiaogang,소강,샤오강,暁港,,,,metro_station,gzmtr,9984338MCSIH
+116,116,8 21,中大,中大,Sun Yat-sen University,중대,중다,中大,,,,metro_station,gzmtr,8824572S67IN
+117,117,8 22,鷺江,鹭江,Lujiang,노강,루장,鷺江,,,,metro_station,gzmtr,005175670BUW
+118,118,8 24,赤崗,赤岗,Chigang,적강,츠강,赤崗,,,,metro_station,gzmtr,5086922G1PHD
+119,119,"8 25,18 07",磨碟沙,磨碟沙,Modiesha,마접사,모뎨사,磨チョウ沙,,,,metro_station,gzmtr,2118851AGT8S
+120,120,8 26,新港東,新港东,Xingangdong,신항동,싱앙둥,新港東,,,,metro_station,gzmtr,39595539VRS5
+121,121,8 27,琶洲,琶洲,Pazhou,파주,파저우,琶洲,,,,metro_station,gzmtr,3314997Z77LE
+122,122,GF 17,菊樹,菊树,Jushu,국수,쥐수,菊樹,,,,metro_station,gzmtr,6549686HL7FN
+123,123,GF 16,龍溪,龙溪,Longxi,용계,룽시,龍渓,,,,metro_station,gzmtr,8654122P15Q9
+124,124,GF 15,金融高新區,金融高新区,Financial Hi-Tech Zone,금융고신구,진룽가오신취,金融高新區,,,,metro_station,gzmtr,65116836143Z
+125,125,GF 14,千燈湖,千灯湖,Qiandeng Lake,천등호,쳰덩후,千灯湖,,,,metro_station,gzmtr,1752366NDWD3
+126,126,GF 13,𧒽崗,𧒽岗,Leigang,뇌강,레이강,ライ崗,出站換乘南海有軌電車TNH1,出站换乘南海有轨电车TNH1,Exit the station to interchange with Nanhai Tram Line 1-TNH1,metro_station,gzmtr,57603737BIH8
+127,127,GF 12,南桂路,南桂路,Nangui Lu,남계로,난구이루,南桂路,,,,metro_station,gzmtr,4487096M0KZK
+128,128,GF 11,桂城,桂城,Guicheng,계성,구이청,桂城,,,,metro_station,gzmtr,3665259ZW3BS
+129,129,GF 10,朝安,朝安,Chao’an,조안,차오안,朝安,,,,metro_station,gzmtr,1760357P9L4D
+130,130,GF 09,普君北路,普君北路,Pujun Beilu,보군북로,푸쥔베이루,普君北路,,,,metro_station,gzmtr,4010363TLMNU
+131,131,GF 08,祖廟,祖庙,Zumiao,조묘,쭈먀오,祖廟,,,,metro_station,gzmtr,7442794IBK05
+132,132,GF 07,同濟路,同济路,Tongji Lu,동제로,퉁지루,同済路,,,,metro_station,gzmtr,91025989LSVD
+133,133,GF 06,季華園,季华园,Jihua Park,계화원,지화위안,季華園,,,,metro_station,gzmtr,45515294T5VV
+134,134,"GF 05,F2 18",魁奇路,魁奇路,Kuiqi Lu,괴기로,쿠이치루,魁奇路,,,,metro_station,"gzmtr,fmetro",0868088P35CM
+135,135,APM 08,體育中心南,体育中心南,Tianhe Sports Center South,체욕중심남,티위중신난,体育中心南,,,,metro_station,gzmtr,9818429E9WGW
+136,136,APM 07,天河南,天河南,Tianhenan,천하남,톈허난,天河南,,,,metro_station,gzmtr,401442308JU0
+137,137,APM 06,黃埔大道,黄埔大道,Huangpu Dadao,황포대도,황푸다다오,黄ホ大道,,,,metro_station,gzmtr,2891133OKCKP
+138,138,APM 05,婦兒中心,妇儿中心,Guangzhou Women & Children’s Medical Center,부아중심,푸얼중신,婦児中心,,,,metro_station,gzmtr,72891023JFTI
+139,139,APM 04,花城大道,花城大道,Huacheng Dadao,화성대도,화청다다오,花城大道,,,,metro_station,gzmtr,63266225G8DT
+140,140,APM 03,大劇院,大剧院,Guangzhou Opera House,대극원,다쥐위안,大劇院,,,,metro_station,gzmtr,8394913IABR3
+141,141,APM 02,海心沙,海心沙,Haixinsha,해심사,하이신사,海心沙,,,,metro_station,gzmtr,4612635SXSMZ
+142,142,"6 01, ",潯峰崗,浔峰岗,Xunfenggang,심봉강,쉰펑강,潯峰崗,,,,metro_station,gzmtr,9119900D5SLM
+143,143,6 02,橫沙,横沙,Hengsha,횡사,헝사,横沙,,,,metro_station,gzmtr,2012351AB8IZ
+144,144,6 03,沙貝,沙贝,Shabei,사패,사베이,沙貝,,,,metro_station,gzmtr,7830264CU593
+145,145,6 04,河沙,河沙,Hesha,하사,허사,河沙,,,,metro_station,gzmtr,8480433NOI4D
+146,146,6 06,如意坊,如意坊,Ruyifang,여의방,루이팡,如意坊,,,,metro_station,gzmtr,4873854BMH6Z
+147,147,"6 08,8 14",文化公園,文化公园,Cultural Park,문화공원,원화궁위안,文化公園,,,,metro_station,gzmtr,65844768F19F
+148,148,6 09,一德路,一德路,Yide Lu,일덕로,이더루,一徳路,,,,metro_station,gzmtr,3818558G5R6E
+149,149,6 11,北京路,北京路,Beijing Lu,북경로,베이징루,北京路,,,,metro_station,gzmtr,117749446I0V
+150,150,6 12,團一大廣場,团一大广场,Tuanyida Square,단일대광장,퇀이다광창,団一大広場,,,,metro_station,gzmtr,1220334T1QW3
+151,151,"6 13, ",東湖,东湖,Donghu,동호,둥후,東湖,,,,metro_station,gzmtr,2277171YMKPQ
+152,152,6 16,黃花崗,黄花岗,Huanghuagang,황화강,황화강,黄花崗,,,,metro_station,gzmtr,620604645W3J
+153,153,6 17,沙河頂,沙河顶,Shaheding,사하정,사허딩,沙河頂,,,,metro_station,gzmtr,2846845QIK8E
+154,154,6 18,沙河,沙河,Shahe,사하,사허,沙河,未開通,未开通,Under construction,metro_station,gzmtr,
+155,155,6 19,天平架,天平架,Tianpingjia,천평가,톈핑자,天平架,,,,metro_station,gzmtr,0988792JUTRM
+156,156,6 22,長湴,长湴,Changban,장밤,창반,長バン,,,,metro_station,gzmtr,09421445FPS4
+157,157,GF 22,燕崗,燕岗,Yangang,연강,옌강,燕崗,,,,metro_station,gzmtr,1981408INDPY
+158,158,GF 20,沙涌,沙涌,Shachong,사용,사충,沙涌,,,,metro_station,gzmtr,3161856HUBG8
+159,159,GF 19,鶴洞,鹤洞,Hedong,학동,허둥,鶴洞,,,,metro_station,gzmtr,1441988HD9J6
+160,160,6 23,植物園,植物园,Botanical Garden,식물원,즈우위안,植物園,,,,metro_station,gzmtr,92151191B6HA
+161,161,6 24,龍洞,龙洞,Longdong,용동,룽둥,竜洞,,,,metro_station,gzmtr,828604264OL6
+162,162,6 25,柯木塱,柯木塱,Kemulang,가목랑,커무랑,柯木ロウ,,,,metro_station,gzmtr,7697272K6GUD
+163,163,6 26,高塘石,高塘石,Gaotangshi,고당석,가오탕스,高塘石,,,,metro_station,gzmtr,288649236CHW
+164,164,6 27,黃陂,黄陂,Huangbei,황피,황베이,黄陂,,,,metro_station,gzmtr,8303475FA82R
+165,165,6 28,金峰,金峰,Jinfeng,금봉,진펑,金峰,,,,metro_station,gzmtr,6108003745YO
+166,166,6 29,暹崗,暹岗,Xiangang,섬강,셴강,暹崗,,,,metro_station,gzmtr,5869226Z8E7C
+167,167,"6 30,21 09",蘇元,苏元,Suyuan,소원,쑤위안,蘇元,,,,metro_station,gzmtr,2674570AODKP
+168,168,6 31,蘿崗,萝岗,Luogang,나강,뤄강,蘿崗,,,,metro_station,gzmtr,9516574DOGWC
+169,169,6 32,香雪,香雪,Xiangxue,향설,샹쉐,香雪,,,,metro_station,gzmtr,0509766HVGJG
+170,170,7 03,謝村,谢村,Xiecun,사촌,셰춘,謝村,,,,metro_station,gzmtr,4435140V83QA
+171,171,7 04,鍾村,钟村,Zhongcun,종촌,중춘,鍾村,,,,metro_station,gzmtr,8108969YTYOJ
+172,172,"7 06,18 04",南村萬博,南村万博,Nancun Wanbo,남촌만박,난춘완보,南村万博,,,,metro_station,gzmtr,6223999ZTQRD
+173,173,7 07,員崗,员岗,Yuangang,원강,위안강,員崗,,,,metro_station,gzmtr,023296504FIE
+174,174,7 08,板橋,板桥,Banqiao,판교,반차오,板橋,,,,metro_station,gzmtr,5377204YH37Q
+175,175,GF 04,瀾石,澜石,Lanshi,난석,란스,瀾石,,,,metro_station,gzmtr,4539431KA4MP
+176,176,GF 03,世紀蓮,世纪莲,Shijilian,세기련,스지롄,世紀蓮,,,,metro_station,gzmtr,9215471CJTWN
+177,177,GF 02,東平,东平,Dongping,동평,둥핑,東平,,,,metro_station,gzmtr,2001444OJCTW
+178,178,GF 01,新城東,新城东,Xincheng Dong,신성동,신청둥,新城東,,,,metro_station,gzmtr,57471415DZ6D
+179,179,9 01,飛鵝嶺,飞鹅岭,Fei’eling,비아령,페이어링,飛鵞嶺,,,,metro_station,gzmtr,4376238LLHQT
+180,180,9 02,花都汽車城,花都汽车城,Huadu Auto Center,화두자동차센터,화두치처청,花都汽車城,,,,metro_station,gzmtr,0902688F0WU4
+181,181,9 03,廣州北站,广州北站,Guangzhou North Railway Station,광저우북역,광저우베이잔,広州北駅,,,,metro_station,gzmtr,32576559Y4TE
+182,182,9 04,花城路,花城路,Huacheng Lu,화성로,화청루,花城路,,,,metro_station,gzmtr,92215826L2L9
+183,183,9 05,花果山公園,花果山公园,Huaguoshan Park,화과산공원,화궈산궁위안,花果山公園,,,,metro_station,gzmtr,9959873H8C37
+184,184,9 06,花都廣場,花都广场,Huadu Square,화두광장,화두광창,花都広場,,,,metro_station,gzmtr,8584388C6BUG
+185,185,9 07,馬鞍山公園,马鞍山公园,Ma'anshan Park,마안산공원,마안산궁위안,馬鞍山公園,,,,metro_station,gzmtr,9509093EYZAW
+186,186,9 08,蓮塘,莲塘,Liantang,연당,롄탕,蓮塘,,,,metro_station,gzmtr,601950630WLH
+187,187,9 09,清㘵,清㘵,Qingbu,청포,칭부,清フ,,,,metro_station,gzmtr,690268334QZC
+188,188,9 10,清塘,清塘,Qingtang,청당,칭탕,清塘,,,,metro_station,gzmtr,73978096THU1
+189,189,3 30,機場北,机场北,Airport North,공항북,지창베이,空港北,2號航站樓,2号航站楼,Terminal 2,metro_station,gzmtr,7038825S07VZ
+190,190,4 06,飛沙角,飞沙角,Feishajiao,비사각,페이사자어,飛沙角,,,,metro_station,gzmtr,7083916Y5K5B
+191,191,4 05,廣隆,广隆,Guanglong,광륭,광룽,広隆,,,,metro_station,gzmtr,0373404AO3TE
+192,192,4 04,大涌,大涌,Dachong,대용,다충,大涌,,,,metro_station,gzmtr,9650940JQTCG
+193,193,4 03,塘坑,塘坑,Tangkeng,당갱,탕컹,塘坑,,,,metro_station,gzmtr,76914520PKRD
+194,194,4 02,南橫,南横,Nanheng,남횡,난헝,南横,,,,metro_station,gzmtr,16962270JE02
+195,195,4 01,南沙客運港,南沙客运港,Nansha Passenger Port,난사객운항,난사커윈강,南沙客運港,,,,metro_station,gzmtr,615099995E5X
+196,196,13 02,裕豐圍,裕丰围,Yufengwei,유풍위,위펑웨이,裕豊囲,,,,metro_station,gzmtr,47310541O8L8
+197,197,13 03,雙崗,双岗,Shuanggang,쌍강,솽강,双崗,,,,metro_station,gzmtr,5582354407DU
+198,198,13 04,南海神廟,南海神庙,Nanhai God Temple,남해신묘,난하이선먀오,南海神廟,,,,metro_station,gzmtr,8998003SKX8Q
+199,199,13 05,夏園,夏园,Xiayuan,하원,샤위안,夏園,,,,metro_station,gzmtr,9441688GDR18
+200,200,13 06,南崗,南岗,Nangang,남강,난강,南崗,,,,metro_station,gzmtr,4428794VQ8TM
+201,201,13 07,沙村,沙村,Shacun,사촌,사춘,沙村,,,,metro_station,gzmtr,6821998EVQ9R
+202,202,13 08,白江,白江,Baijiang,백강,바이장,白江,,,,metro_station,gzmtr,8531315FK2VG
+203,203,13 09,新塘,新塘,Xintang,신당,신탕,新塘,,,,metro_station,gzmtr,1160596Q0MA9
+204,204,13 10,官湖,官湖,Guanhu,관호,관후,官湖,,,,metro_station,gzmtr,9745687FW0YD
+205,205,13 11,新沙,新沙,Xinsha,신사,신사,新沙,,,,metro_station,gzmtr,569575132FCK
+206,206,14 08,新和,新和,Xinhe,신화,신허,新和,,,,metro_station,gzmtr,9841214E7HH3
+207,207,14 14,紅衛,红卫,Hongwei,홍위,훙웨이,紅衛,,,,metro_station,gzmtr,5876432S7ERR
+208,208,14 15,新南,新南,Xinnan,신남,신난,新南,,,,metro_station,gzmtr,0537826XJTB4
+209,209,14 16,楓下,枫下,Fengxia,풍하,펑샤,楓下,,,,metro_station,gzmtr,312906851PIG
+210,210,14 17,知識城,知识城,Sino-Singapore Guangzhou Knowledge City,지식성,즈스청,知識城,,,,metro_station,gzmtr,02620255MQMA
+211,211,14 18,何棠下,何棠下,Hetangxia,하당하,허탕샤,何棠下,,,,metro_station,gzmtr,1295467GFCMK
+212,212,14 19,旺村,旺村,Wangcun,왕촌,왕춘,旺村,,,,metro_station,gzmtr,9263909WKXR2
+213,213,14 20,湯村,汤村,Tangcun,탕촌,탕춘,湯村,,,,metro_station,gzmtr,0142411627FW
+214,214,14 21,鎮龍北,镇龙北,Zhenlongbei,진룡북,전룽베이,鎮竜北,,,,metro_station,gzmtr,36843283L4NI
+215,215,"14 22,21 14",鎮龍,镇龙,Zhenlong,진룡,전룽,鎮竜,,,,metro_station,gzmtr,4251322RPZR0
+216,216,THZ1 02,廣州塔東,广州塔东,Canton Tower East,캔턴타워동,광저우타둥,広州塔東,,,,tram_station,gztram,630312802UH9
+217,217,THZ1 03,獵德大橋南,猎德大桥南,Liede Bridge South,엽덕대교남,례다다차오난,猟徳大橋南,,,,tram_station,gztram,7036128PBLE3
+218,218,THZ1 04,琶醍,琶醍,Party Pier,파제,파티,琶醍,,,,tram_station,gztram,3537543389HA
+219,219,THZ1 05,南風,南风,Nanfeng,남풍,난펑,南風,,,,tram_station,gztram,2146611CVJ0L
+220,220,THZ1 06,會展西,会展西,Canton Fair Complex West,회전서,후이잔시,会展西,,,,tram_station,gztram,9180248N8PKA
+221,221,THZ1 07,會展中,会展中,Canton Fair Complex Middle,회전중,후이잔중,会展中,,,,tram_station,gztram,9948285FLPP3
+222,222,THZ1 08,會展東,会展东,Canton Fair Complex East,회전동,후이잔둥,会展東,,,,tram_station,gztram,3377904SU0HU
+223,223,THZ1 09,琶洲大橋南,琶洲大桥南,Pazhou Bridge South,파주대교남,파저우다차오난,琶洲大橋南,,,,tram_station,gztram,5357936JM62Y
+224,224,THZ1 10,琶洲塔,琶洲塔,Pazhou Pagoda,파주탑,파저우타,琶洲塔,,,,tram_station,gztram,8475650IJULO
+225,225,"3 09,APM 01,THZ1 01",廣州塔,广州塔,Canton Tower,캔턴타워,광저우타,広州塔,海珠有軌電車THZ1,海珠有轨电车THZ1,Haizhu Tram-THZ1,tram_station,gztram,4959877RE59L
+226,226,"4 21,8 28,THZ1 11",萬勝圍,万胜围,Wanshengwei,만성위,완성웨이,万勝囲,海珠有軌電車THZ1,海珠有轨电车THZ1,Haizhu Tram-THZ1,tram_station,gztram,6462746W7LBY
+227,227,GF 23,石溪,石溪,Shixi,석계,스시,石渓,,,,metro_station,gzmtr,4515244F9O4D
+228,228,14 02,白雲東平,白云东平,Baiyun Dongping,바이윈동평,바이윈둥핑,白雲東平,,,,metro_station,gzmtr,6566526KTMH0
+229,229,14 03,夏良,夏良,Xialiang,하량,샤량,夏良,,,,metro_station,gzmtr,5801866IYDBD
+230,230,14 04,太和,太和,Taihe,태화,타이허,太和,,,,metro_station,gzmtr,7335355NZK95
+231,231,14 05,竹料,竹料,Zhuliao,죽료,주랴오,竹料,,,,metro_station,gzmtr,97262654HMBV
+232,232,14 06,鐘落潭,钟落潭,Zhongluotan,종락담,중뤄탄,鐘落潭,,,,metro_station,gzmtr,4868252BHDTY
+233,233,14 07,馬瀝,马沥,Mali,마력,마리,馬瀝,,,,metro_station,gzmtr,0012851O51N9
+235,235,21 21,增城廣場,增城广场,Zengcheng Square,쩡청광장,쩡청광창,増城広場,,,,metro_station,gzmtr,8420071Z8HCF
+236,236,14 09,太平,太平,Taiping,태평,타이핑,太平,,,,metro_station,gzmtr,0468216LER67
+237,237,14 10,神崗,神岗,Shengang,신강,성앙,神崗,,,,metro_station,gzmtr,10925026XG87
+238,238,14 11,赤草,赤草,Chicao,적초,츠차오,赤草,,,,metro_station,gzmtr,4533149VDB4O
+239,239,14 12,從化客運站,从化客运站,Conghua Coach Terminal,충화터미널,충화커윈잔,従化ターミナル,,,,metro_station,gzmtr,03149376H0P2
+240,240,14 13,東風,东风,Dongfeng,동풍,둥펑,東風,,,,metro_station,gzmtr,9898512YIXCC
+241,241,21 20,鍾崗,钟岗,Zhonggang,종강,중강,鍾崗,,,,metro_station,gzmtr,99464101DIFJ
+242,242,21 18,朱村,朱村,Zhucun,주촌,주춘,朱村,,,,metro_station,gzmtr,8211263H9B42
+243,243,21 19,山田,山田,Shantian,산전,산톈,山田,,,,metro_station,gzmtr,5234114I60KM
+244,244,21 17,鳳崗,凤岗,Fenggang,봉강,펑강,鳳崗,,,,metro_station,gzmtr,00608970JOW0
+245,245,21 16,坑貝,坑贝,Kengbei,갱패,컹베이,坑貝,,,,metro_station,gzmtr,294851319AIA
+246,246,21 15,中新,中新,Zhongxin,중신,중신,中新,,,,metro_station,gzmtr,5698035FL082
+247,247,21 13,鎮龍西,镇龙西,Zhenlongxi,진룡서,전룽시,鎮竜西,,,,metro_station,gzmtr,723032406VCY
+248,248,21 02,天河公園,天河公园,Tianhe Park,톈허공원,톈허궁위안,天河公園,,,,metro_station,gzmtr,1363181PIEJ3
+249,249,21 03,棠東,棠东,Tangdong,당동,탕둥,棠東,,,,metro_station,gzmtr,7954377L8M70
+250,250,21 05,大觀南路,大观南路,Daguan Nanlu,대관남로,다관난루,大観南路,,,,metro_station,gzmtr,4339325Z0I2J
+251,251,21 06,天河智慧城,天河智慧城,Tianhe Smart City,톈허스마트시티,톈허즈후이청,天河智慧城,,,,metro_station,gzmtr,62479036KR1C
+252,252,21 07,神舟路,神舟路,Shenzhou Lu,신주로,선저우루,神舟路,,,,metro_station,gzmtr,0825568OBOUB
+253,253,21 08,科學城,科学城,Science City,과학성,커쉐청,科学城,,,,metro_station,gzmtr,3975789JA3PL
+254,254,21 10,水西,水西,Shuixi,수서,수이시,水西,,,,metro_station,gzmtr,41044441DFQC
+255,255,21 11,長平,长平,Changping,장평,창핑,長平,,,,metro_station,gzmtr,1621760XZ8MG
+256,256,21 12,金坑,金坑,Jinkeng,금갱,진컹,金坑,,,,metro_station,gzmtr,0626741943F1
+257,257,8 15,同福西,同福西,Tongfuxi,동북서,퉁푸시,同福西,,,,metro_station,gzmtr,2249076T15JK
+258,258,8 13,華林寺,华林寺,Hualinsi Buddhist Temple,화림사,화린쓰,華林寺,,,,metro_station,gzmtr,6369625CEVLO
+260,260,8 08,同德,同德,Tongde,동덕,퉁더,同徳,,,,metro_station,gzmtr,9365613VPU7V
+261,261,8 07,上步,上步,Shangbu,상보,상부,上歩,,,,metro_station,gzmtr,1976978JZSGM
+263,263,8 05,石潭,石潭,Shitan,석담,스탄,石潭,,,,metro_station,gzmtr,9670489ALYZU
+264,264,8 04,小坪,小坪,Xiaoping,소평,샤오핑,小坪,,,,metro_station,gzmtr,30046346EDO9
+265,265,8 03,石井,石井,Shijing,석정,스징,石井,,,,metro_station,gzmtr,0143256P5ZPJ
+266,266,8 02,亭崗,亭岗,Tinggang,정강,팅강,亭崗,,,,metro_station,gzmtr,7023376U6SOI
+267,267,8 01,滘心,滘心,Jiaoxin,교심,자어신,キョウ心,,,,metro_station,gzmtr,6638065GQ214
+268,268,8 09,鵝掌坦,鹅掌坦,Ezhangtan,아장탄,어장탄,鵝掌坦,,,,metro_station,gzmtr,8218307OU1S7
+269,269,8 06,聚龍,聚龙,Julong,취룡,쥐룽,聚竜,,,,metro_station,gzmtr,3548955K9CXL
+270,270,18 08,冼村,冼村,Xiancun,승촌,셴춘,冼村,,,,metro_station,gzmtr,4237195SGJ62
+271,271,18 06,龍潭,龙潭,Longtan,용담,룽탄,竜潭,,,,metro_station,gzmtr,158011987TJ8
+272,272,18 05,沙溪,沙溪,Shaxi,사계,사시,沙渓,,,,metro_station,gzmtr,26452356684F
+273,273,18 02,橫瀝,横沥,Hengli,횡력,헝리,横瀝,,,,metro_station,gzmtr,59728807IUMG
+274,274,18 01,萬頃沙,万顷沙,Wanqingsha,만경사,완칭사,万頃沙,,,,metro_station,gzmtr,1253341KA9NV
+275,275,22 02,市廣路,市广路,Shiguang Lu,시광로,스광루,市広路,未開通,未开通,Under construction,metro_station,gzmtr,
+276,276,22 04,陳頭崗,陈头岗,Chentougang,진두강,천터우강,陳頭崗,未開通,未开通,Under construction,metro_station,gzmtr,
+277,277,THP1 01,地鐵香雪站,地铁香雪站,Xiangxue Metro Station,향설역,디톄샹쉐잔,香雪駅,,,,tram_station,gztram,7866133WYPW9
+278,278,THP1 02,區少年宮(蘿崗),区少年宫(萝岗),Huangpu Children’s Palace Luogang Branch,구소년궁(나강),취사오녠궁(뤄강),区少年宮(蘿崗),,,,tram_station,gztram,8923137PFG8Y
+279,279,THP1 03,綫坑,线坑,Xiankeng,선갱,셴컹,線坑,,,,tram_station,gztram,6637943ZPFZ8
+280,280,THP 04,市民廣場,市民广场,Civic Square,시민광장,스민광창,市民広場,,,,tram_station,gztram,1875911FKANE
+281,281,THP1 05,會議中心,会议中心,Convention Center,회의센터,후이이중신,会議中心,,,,tram_station,gztram,3616228QWBNF
+282,282,THP1 06,地鐵水西站,地铁水西站,Shuixi Metro Station,수서역,디톄수이시잔,水西駅,,,,tram_station,gztram,3072556KNYIL
+283,283,THP1 07,峻泰路,峻泰路,Juntai Lu,준태로,쥔타이루,峻泰路,,,,tram_station,gztram,44354550I0S0
+284,284,THP1 09,北師大實驗學校,北师大实验学校,Guangzhou Experiment School Affliated to BNU,북사대실험학교,베이스다스옌쉐샤오,北師大実験学校,,,,tram_station,gztram,3661795BZPSW
+285,285,THP1 10,地鐵長平站,地铁长平站,Changping Metro Station,장평역,디톄창핑잔,長平駅,,,,tram_station,gztram,51942333W5FI
+286,286,THP1 11,羌洞,羌洞,Qiangdong,강동,챵둥,羌洞,,,,tram_station,gztram,080276580FY8
+287,287,THP1 12,長嶺居小學,长岭居小学,Changlingju Primary School,장령거초등학교,창링쥐샤오쉐,長嶺居小學,,,,tram_station,gztram,57094754RUHB
+288,288,THP1 13,嶺頭,岭头,Lingtou,영두,링터우,嶺頭,,,,tram_station,gztram,6586717CFGEI
+289,289,THP1 14,幹部健康中心,干部健康中心,Guangzhou Cadre Health Management Center,간부건강센터,간부졘캉중신,幹部健康中心,,,,tram_station,gztram,52781317D0HD
+290,290,THP1 15,嶺頭東,岭头东,Lingtou East,영두동,링터우둥,嶺頭東,,,,tram_station,gztram,8815180BDYMI
+291,291,THP1 16,賢江西,贤江西,Xianjiang West,현강서,셴장시,賢江西,,,,tram_station,gztram,9020714FEI28
+292,292,THP1 17,賢江公園,贤江公园,Xianjiang Park,현강공원,셴장궁위안,賢江公園,,,,tram_station,gztram,3634565KHKBZ
+293,293,THP1 18,賢江,贤江,Xianjiang,현강,셴장,賢江,,,,tram_station,gztram,0494363LMWIC
+294,294,THP1 19,新豐路,新丰路,Xinfeng Lu,신풍로,신펑루,新豊路,,,,tram_station,gztram,5508006EHSHH
+295,295,21 10,水西,水西,Shuixi,수서,수이시,水西,黃埔有軌電車1號綫THP1,黄埔有轨电车1号线THP1,Huangpu Tram Line 1-THP1,tram_station,gztram,41044441DFQC
+296,296,F2 11,南莊,南庄,Nanzhuang,남장,난좡,南荘,,,,metro_station,fmetro,7136723287NZ
+297,297,F2 12,湖涌,湖涌,Huchong,호용,후충,湖涌,,,,metro_station,fmetro,1460156357HC
+298,298,F2 13,綠島湖,绿岛湖,Lüdao Lake,녹도호,뤼다오후,緑島湖,,,,metro_station,fmetro,0054063V1LDH
+299,299,F2 14,智慧新城,智慧新城,Zhihui Xincheng,지혜신성,즈후이신청,智慧新城,,,,metro_station,fmetro,1285642S82LT
+300,300,F2 15,張槎,张槎,Zhangcha,장차,장차,張槎,,,,metro_station,fmetro,3559029BF6ZC
+301,301,F2 16,石灣,石湾,Shiwan,석만,스완,石湾,,,,metro_station,fmetro,60075897B6SW
+302,302,F2 17,沙崗,沙岗,Shagang,사강,사강,沙崗,,,,metro_station,fmetro,29244258L3SG
+303,303,F2 19,石梁,石梁,Shiliang,석량,스량,石梁,,,,metro_station,fmetro,99291422W3SL
+304,304,F2 20,灣華,湾华,Wanhua,만화,완화,湾華,,,,metro_station,fmetro,90395232N2WH
+305,305,F2 21,登洲,登洲,Dengzhou,등주,덩저우,登洲,,,,metro_station,fmetro,2933201DO0DZ
+306,306,F2 22,花卉世界,花卉世界,Flower World,화훼세계,화후이,花卉世界,,,,metro_station,fmetro,87990031HHSJ
+307,307,F2 23,仙涌,仙涌,Xianchong,선용,셴충,仙涌,,,,metro_station,fmetro,9629157NW6XC
+308,308,F2 24,石洲,石洲,Shizhou,석주,스저우,石洲,,,,metro_station,fmetro,7560940OB7SZ
+309,309,F2 25,林岳西,林岳西,Linyue Xi,임악서,린웨시,林岳西,,,,metro_station,fmetro,246871948LYX
+310,310,F2 26,林岳東,林岳东,Linyue Dong,임악동,린웨둥,林岳東,,,,metro_station,fmetro,8293753T9LYD
+311,311,TNH1 02,華翠路,华翠路,Huacui Lu,화취로,화추이루,華翠路,未開通,未开通,Under construction,metro_station,gzmtr,
+312,312,TNH1 03,夏西,夏西,Xiaxi,하서,샤시,夏西,未開通,未开通,Under construction,metro_station,gzmtr,
+313,313,TNH1 04,夏東,夏东,Xiadong,하동,샤둥,夏東,未開通,未开通,Under construction,metro_station,gzmtr,
+314,314,TNH1 05,康怡公園,康怡公园,Kangyi Park,강이공원,캉이궁위안,康怡公園,未開通,未开通,Under construction,metro_station,gzmtr,
+315,315,TNH1 06,平西,平西,Pingxi,평서,핑시,平西,未開通,未开通,Under construction,metro_station,gzmtr,
+316,316,TNH1 07,平南,平南,Pingnan,평남,핑난,平南,未開通,未开通,Under construction,metro_station,gzmtr,
+317,317,TNH1 08,玉器街,玉器街,Jade Street,옥기가,위치제,玉器街,未開通,未开通,Under construction,metro_station,gzmtr,
+318,318,TNH1 09,中區,中区,Zhongqu,중구,중취,中区,未開通,未开通,Under construction,metro_station,gzmtr,
+319,319,TNH1 10,三山新城北,三山新城北,Sanshan Xincheng North,삼산신성북,싼산신청베이,三山新城北,未開通,未开通,Under construction,metro_station,gzmtr,
+320,320,7 01-1,大洲,大洲,Dazhou,대주,다저우,大洲,未開通,未开通,Under construction,metro_station,gzmtr,
+321,321,7 01-2,陳村北,陈村北,Chencunbei,진촌북,천춘베이,陳村北,未開通,未开通,Under construction,metro_station,gzmtr,
+322,322,7 01-3,陳村,陈村,Chencun,진촌,천춘,陳村,未開通,未开通,Under construction,metro_station,gzmtr,
+323,323,7 01-4,錦龍,锦龙,Jinlong,금룡,진룽,錦龍,未開通,未开通,Under construction,metro_station,gzmtr,
+324,324,7 01-5,南涌,南涌,Nanchong,남용,난충,南涌,未開通,未开通,Under construction,metro_station,gzmtr,
+325,325,7 01-6,美的,美的,Midea,미디어,메이디,美的,未開通,未开通,Under construction,metro_station,gzmtr,
+326,326,7 01-7,北滘公園,北滘公园,Beijiao Park,북교공원,베이자어궁위안,北キョウ公園,未開通,未开通,Under construction,metro_station,gzmtr,
+328,328,"2 01,7 01,F2 27",廣州南站,广州南站,Guangzhou South Railway Station,광저우남역,광저우난잔,広州南駅,佛山2號綫,佛山2号线,Foshan Line 2,metro_station,fmetro,2932773NAB9G
+329,329,7 01-9,美的大道,美的大道,Meidi Dadao,미적대도,메이디다다오,美的大道,未開通,未开通,Under construction,metro_station,gzmtr,
+330,330,TNH1 01,𧒽崗,𧒽岗,Leigang,뇌강,레이강,ライ崗,南海有軌電車1號綫TNH1,南海有轨电车1号线TNH1,Nanhai Tram Line 1-TNH1,tram_station,nhtram,
